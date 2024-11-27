@@ -16,7 +16,7 @@ const WelcomeScreen = () => {
             source={require('../assets/images/dsk_splash.png')}
             style={styles.bgImage}
             resizeMode='cover'
-        />
+        /> 
         {/* linear gradient */}
         <Animated.View entering={FadeInDown.duration(600)} style={{flex:1}}>
             <LinearGradient
