@@ -3,9 +3,9 @@ Fotura es una plataforma construida con React Native, que ofrece una biblioteca 
 
 ## Tecnologías
 - React Native
-- Expo
+- Expo 52
 - JavaScript
-- Node.js
+- Node.js 22.11.0
 - React Native Reanimated
   
 ## Instalación
